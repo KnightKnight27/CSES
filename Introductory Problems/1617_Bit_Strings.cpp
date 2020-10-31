@@ -16,3 +16,4 @@ int main()
     cout<<func(2,n);
     return 0;
 }
+//HIGHJUJKYKIKLJILJULKJGRKUO,97,OL6TKUOI5LJOUK6
